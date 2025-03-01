@@ -27,3 +27,7 @@ make debug
 ```
 #### For a test with 100 simulation time, 500k people and 8 threads
 ![image](https://github.com/user-attachments/assets/c804abf8-3007-4f00-9194-1bacf6d32290)
+
+#### For a test with 10 simulation time, 10 people and 2 threads, with debug
+![image](https://github.com/user-attachments/assets/91b91932-59da-4c80-96e1-d492db2b2de8)
+![image](https://github.com/user-attachments/assets/6b091080-7818-45b1-9a6c-421d9a999e97)
