@@ -25,6 +25,5 @@ make debug
 ```
 ./test <TOTAL_SIMULATION_TIME> <InputFileName> <ThreadNumber>
 ```
-
-  For a test with 100 simulation time, 500k people and 8 threads
+#### For a test with 100 simulation time, 500k people and 8 threads
 ![image](https://github.com/user-attachments/assets/c804abf8-3007-4f00-9194-1bacf6d32290)
